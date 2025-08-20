@@ -1,6 +1,6 @@
 # django-fingerprinting-middleware
 
-[![codecov]()
+[![codecov](https://codecov.io/gh/k3y5tr0k3/django-fingerprinting-middleware/branch/feature%2Fmvp/graph/badge.svg?token=lLIgO7EtZu)](https://codecov.io/gh/k3y5tr0k3/django-fingerprinting-middleware)
 [![Python - >=3.12](https://img.shields.io/badge/Python->=3.12-2ea44f?logo=python&logoColor=yellow)](https://www.python.org/)
 [![Django - >=5.2](https://img.shields.io/badge/Django->=5.2-2ea44f?logo=django&logoColor=lime)](https://www.djangoproject.com/)
 [![Style - Black](https://img.shields.io/badge/Style-Black-black?logo=stylelint&logoColor=white)](https://github.com/psf/black)
