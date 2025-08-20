@@ -1,5 +1,9 @@
 # django-fingerprinting-middleware
-A lightweight Django middleware for generating unique browser fingerprints. Useful for analytics, fraud detection, rate limiting, and session tracking.
+
+[![codecov]()
+[![Python - >=3.12](https://img.shields.io/badge/Python->=3.12-2ea44f?logo=python&logoColor=yellow)](https://www.python.org/)
+[![Django - >=5.2](https://img.shields.io/badge/Django->=5.2-2ea44f?logo=django&logoColor=lime)](https://www.djangoproject.com/)
+[![Style - Black](https://img.shields.io/badge/Style-Black-black?logo=stylelint&logoColor=white)](https://github.com/psf/black)
 
 ## Overview
 A lightweight Django middleware for generating unique browser fingerprints. Useful for analytics, fraud detection, rate limiting, and session tracking.

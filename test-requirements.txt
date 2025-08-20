@@ -1,0 +1,6 @@
+django<6,>=5.2
+user-agents<3,>=2.2
+pytest<9,>=8.4.1
+pytest-django<5,>=4.11.1
+pytest-cov<7,<=6.2.1
+ruff<1,>=0.12.9
